@@ -32,10 +32,11 @@
 
 | 指标 | 数据 |
 |:---|:---:|
-| 已发布期数 | 19 |
-| 总推荐仓库 | 219 |
+| 已发布期数 | 20 |
+| 总推荐仓库 | 239 |
 | 语言分布 | JavaScript / TypeScript / Python / Swift / Go / Shell / Rust / C++ / HTML / C / Perl |
 
 ---
 
 > 数据来源：[GitHub Trending](https://github.com/trending)
+| **第 20 期** | **2026-06-28** | **[20260628-020-第20期.md](./20260628-020-第20期.md)** |
