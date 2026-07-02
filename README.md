@@ -39,8 +39,8 @@
 
 | 指标 | 数据 |
 |:---|:---:|
-| 已发布期数 | 25 |
-| 总推荐仓库 | 338 |
+| 已发布期数 | 26 |
+| 总推荐仓库 | 358 |
 | 语言分布 | JavaScript / TypeScript / Python / Swift / Go / Shell / Rust / C++ / HTML / C / Perl |
 
 ---
